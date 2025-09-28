@@ -14,7 +14,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        <p className="text-white">Test</p>
+        {children}
       </body>
     </html>
   );
