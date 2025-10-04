@@ -1,13 +1,17 @@
 @import "tailwindcss";
 
 :root {
-  background-color: #171717;
+  /*background-color: #171717;*/
 }
 
 @theme inline {
 }
 
 @media (prefers-color-scheme: dark) {
+}
+
+.button_click{
+  background-color: aqua;
 }
 
 body {
