@@ -6,7 +6,7 @@ function handleClick() {
   }
 export default function Home() {
   return (
-    <div>git 
+    <div>
        <p className="text-white">TestPage title</p>
        <div className="button_click">
        <button onClick={handleClick}>Test here</button>
